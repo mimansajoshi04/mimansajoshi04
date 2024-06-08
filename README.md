@@ -1,10 +1,9 @@
-### <div align="center">I'm Mimansa, a full-stack developer </div>  
+## About
+  ### Hello, I'm Mimansa. I am currently pursuing a degree in CSE along with Diploma in Programming and Data Science.
   
 
--  I’m currently working on [Influencer Sponsorship Platform](https://github.com/mimansajoshi04/mad01project)  
-  
+Currently working on [Influencer Sponsorship Platform](https://github.com/mimansajoshi04/mad01project)  
 
-- I’m currently learning Computer Science and Engineering along with Programming and Data Science  
   
 
 <br/>  
@@ -70,9 +69,10 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mimansajoshi04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+## My Github Stats
+ ![Mimansa's Stats](https://github-readme-stats.vercel.app/api?username=mimansajoshi04&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+ ![Mimansa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimansajoshi04&theme=highcontrast&hide_border=true)
+ ![Mimansa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimansajoshi04&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 <br/>  
 
   
